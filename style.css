@@ -1,0 +1,99 @@
+*{
+    margin: 10px;
+    padding: 5px;
+
+}
+.tittle{
+    font-family: 'italic', sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSsifz3M7588-czAWE0qSu4BF11yfpkZ-Xsw&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    padding: 0px;
+    width:70vw;
+    margin: 0px;
+    
+}
+#param{
+    float: left;
+    margin-left: 20px;
+    margin-top: -14px;
+}
+.check{
+  margin-left: 20px;  
+
+    
+}
+.check .input-box{
+        transform: translateX(transparent);
+}
+h1{
+    text-align: right;
+}
+form{
+    background-color: #fff;
+    width: 470px;
+    height:600px;
+    margin:-1% 0 0 23%;
+    border-bottom: 2px rgba(197, 23, 23, 0.533) solid;
+
+    
+}
+input{
+    border: none;
+    border-bottom: solid 1px #a70909;
+    width:100%;
+    background: none;
+}
+
+p{
+    text-align: right;
+}
+.text{
+    text-align: left;
+    margin:0 0 0 10px;
+
+}
+.Login-form{
+    max-width: 5px;
+    width: 50%;
+    
+}
+
+
+.power img{
+
+    width:241%;
+    margin:0 20%;
+
+}
+
+.word{
+   text-decoration-color:rgb(160, 5, 5);
+   margin: 100px;
+   border: 200px;
+   height: 100vh;
+ }
+/* .container{
+    margin-bottom: 10px; */
+/* } */
+/* .container .signup-form{
+    position: relative;
+    width: 100%;
+    padding: 10px;
+    background: #fff;
+    border: none;
+    outline: none;
+    box-shadow: none;
+    border-bottom: 2px #000 solid;
+    margin: 8px 0;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 300px;
+
+} */
